@@ -1,6 +1,6 @@
 {
-  "name": "webtesting-iii-guided",
-  "version": "0.1.0",
+  "name": "y",
+  "version": "y",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -21,5 +21,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "devDependencies": {
+    "react-test-renderer": "^16.8.6"
+  }
 }
